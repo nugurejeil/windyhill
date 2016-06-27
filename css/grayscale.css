@@ -90,6 +90,7 @@ a:focus {
 
 .navbar-custom a {
     color: #fff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .navbar-custom .nav li a {
@@ -147,7 +148,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(https://lh3.googleusercontent.com/kkX3Rp77Rg2357iExXRHvZFlxm6fwTRRs4vMlCA3wfjPP9cyZN2etqJvcYMcsc-H_tk=h1264-rw) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -371,3 +372,15 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+
+/********* Custom CSS ************/
+
+.introFontColor{
+    color: #21BA58;
+}
+
+
+
+
+
